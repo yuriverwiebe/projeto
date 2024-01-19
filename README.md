@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Link Para Bio é um agregador de links para utilizar como cartão de visita online. Acesse o [projeto AQUI](https://yuriverwiebe.github.io/projeto-links)
+O Link Para Bio é um agregador de links para utilizar como cartão de visita online. Acesse o projeto [AQUI](https://yuriverwiebe.github.io/projeto-links)
 
 ## 🔖 Layout
 
